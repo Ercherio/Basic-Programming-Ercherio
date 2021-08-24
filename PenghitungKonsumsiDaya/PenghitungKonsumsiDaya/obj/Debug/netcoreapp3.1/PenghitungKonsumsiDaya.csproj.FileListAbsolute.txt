@@ -1,0 +1,14 @@
+E:\KERJA\Metrodata\MCC\C# Programming\PenghitungKonsumsiDaya\PenghitungKonsumsiDaya\obj\Debug\netcoreapp3.1\PenghitungKonsumsiDaya.csproj.AssemblyReference.cache
+E:\KERJA\Metrodata\MCC\C# Programming\PenghitungKonsumsiDaya\PenghitungKonsumsiDaya\obj\Debug\netcoreapp3.1\PenghitungKonsumsiDaya.GeneratedMSBuildEditorConfig.editorconfig
+E:\KERJA\Metrodata\MCC\C# Programming\PenghitungKonsumsiDaya\PenghitungKonsumsiDaya\obj\Debug\netcoreapp3.1\PenghitungKonsumsiDaya.AssemblyInfoInputs.cache
+E:\KERJA\Metrodata\MCC\C# Programming\PenghitungKonsumsiDaya\PenghitungKonsumsiDaya\obj\Debug\netcoreapp3.1\PenghitungKonsumsiDaya.AssemblyInfo.cs
+E:\KERJA\Metrodata\MCC\C# Programming\PenghitungKonsumsiDaya\PenghitungKonsumsiDaya\obj\Debug\netcoreapp3.1\PenghitungKonsumsiDaya.csproj.CoreCompileInputs.cache
+E:\KERJA\Metrodata\MCC\C# Programming\PenghitungKonsumsiDaya\PenghitungKonsumsiDaya\bin\Debug\netcoreapp3.1\PenghitungKonsumsiDaya.exe
+E:\KERJA\Metrodata\MCC\C# Programming\PenghitungKonsumsiDaya\PenghitungKonsumsiDaya\bin\Debug\netcoreapp3.1\PenghitungKonsumsiDaya.deps.json
+E:\KERJA\Metrodata\MCC\C# Programming\PenghitungKonsumsiDaya\PenghitungKonsumsiDaya\bin\Debug\netcoreapp3.1\PenghitungKonsumsiDaya.runtimeconfig.json
+E:\KERJA\Metrodata\MCC\C# Programming\PenghitungKonsumsiDaya\PenghitungKonsumsiDaya\bin\Debug\netcoreapp3.1\PenghitungKonsumsiDaya.runtimeconfig.dev.json
+E:\KERJA\Metrodata\MCC\C# Programming\PenghitungKonsumsiDaya\PenghitungKonsumsiDaya\bin\Debug\netcoreapp3.1\PenghitungKonsumsiDaya.dll
+E:\KERJA\Metrodata\MCC\C# Programming\PenghitungKonsumsiDaya\PenghitungKonsumsiDaya\bin\Debug\netcoreapp3.1\PenghitungKonsumsiDaya.pdb
+E:\KERJA\Metrodata\MCC\C# Programming\PenghitungKonsumsiDaya\PenghitungKonsumsiDaya\obj\Debug\netcoreapp3.1\PenghitungKonsumsiDaya.dll
+E:\KERJA\Metrodata\MCC\C# Programming\PenghitungKonsumsiDaya\PenghitungKonsumsiDaya\obj\Debug\netcoreapp3.1\PenghitungKonsumsiDaya.pdb
+E:\KERJA\Metrodata\MCC\C# Programming\PenghitungKonsumsiDaya\PenghitungKonsumsiDaya\obj\Debug\netcoreapp3.1\PenghitungKonsumsiDaya.genruntimeconfig.cache
